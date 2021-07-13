@@ -61,8 +61,8 @@ logo = logo ="""
 \033[1;97m       YAKAM TOOLE CHANALAKAMAN 
 \033[1;97m   AM TOOLAYA HEWADARM SWDE LEBBENN
 """
-CorrectUsername = 'KHATO'
-CorrectPassword = 'TUBE'
+CorrectUsername = '****'
+CorrectPassword = '****'
 os.system('clear')
 print logo
 loop = 'true'
